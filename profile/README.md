@@ -1,7 +1,4 @@
 [![Hydrogen Ukraine (@H2Ukraine) | Twitter](https://h2u.ua/wp-content/uploads/2024/04/logo_w.png)](https://twitter.com/H2Ukraine)
-
-Certainly! Here's a comprehensive `README.md` tailored for the [HydrogenUkraine GitHub organization](https://github.com/HydrogenUkraine), reflecting its mission, projects, and technological initiatives:
-
 ---
 
 # Hydrogen Ukraine – GitHub Organization

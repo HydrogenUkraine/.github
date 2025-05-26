@@ -1,7 +1,7 @@
 [![Hydrogen Ukraine (@H2Ukraine) | Twitter](https://h2u.ua/wp-content/uploads/2024/04/logo_w.png)](https://twitter.com/H2Ukraine)
 ---
 
-# Hydrogen Ukraine – GitHub Organization
+# Hydrogen Ukraine
 
 Welcome to the official GitHub organization of **Hydrogen Ukraine (H2U)** — a pioneering green hydrogen development company based in Kyiv, Ukraine. Our mission is to advance renewable energy solutions by developing green hydrogen projects tailored for international, regional, and domestic supply. ([Hydrogen Ukraine][1])
 
